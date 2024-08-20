@@ -1,0 +1,22 @@
+/*Les sélecteurs simples: */ 
+h1{
+	text-align: center;
+}
+/* h1 :Ses autres propriétés sont définies dans le HTML */
+
+h2{
+font-size: 25px;
+text-align: left;
+color: darkred;
+}
+
+p{
+font-size: 20px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+color: yellowgreen;
+}
+
+body {
+background-color: #007471;
+}
